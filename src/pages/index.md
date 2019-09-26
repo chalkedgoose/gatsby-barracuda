@@ -1,9 +1,11 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Don't wish for it work for it.
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Don't wish for it work for it.
+subheading: >-
+  Let me help you be the best version of yourself that you can be with dynamic
+  training regimes, diets and advice tailored to your body and mind.
 mainpitch:
   title: Why Kaldi
   description: >
@@ -68,3 +70,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
