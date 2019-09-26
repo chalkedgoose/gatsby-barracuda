@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Don't wish for it work for it.
-image: /img/home-jumbotron.jpg
+image: /img/photo-1500468756762-a401b6f17b46.jpeg
 heading: Don't wish for it work for it.
 subheading: >-
   Let me help you be the best version of yourself that you can be with dynamic
